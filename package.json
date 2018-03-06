@@ -1,0 +1,16 @@
+{
+  "name": "ee-workshop",
+  "version": "0.0.0",
+  "description": "Använda earthengine via nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnnie",
+  "license": "MIT",
+  "dependencies": {
+    "ee-runner": "0.0.10",
+    "express": "^4.16.2",
+    "https": "^1.0.0"
+  }
+}
